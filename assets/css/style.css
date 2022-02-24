@@ -137,4 +137,5 @@ select {
 .select:hover::after {
     background: #fff;
     color: #ff6f47;
+    
 } 
